@@ -1,0 +1,8 @@
+{
+  "name": "AetherWeather",
+  "description": "Premium accurate weather forecasting applet with real-time push notifications, custom alert triggers, and personalized AI advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
